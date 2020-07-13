@@ -1,0 +1,4 @@
+
+protocol Teacher {
+ func teach ();
+}
